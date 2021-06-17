@@ -1,3 +1,8 @@
+# go 语言的项目
+# go 语言的项目
+# go 语言的项目
+
+
 # Leanote
 
 [![Build Status](https://travis-ci.org/leanote/leanote.svg)](https://travis-ci.org/leanote/leanote)
